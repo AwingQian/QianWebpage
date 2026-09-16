@@ -1,8 +1,8 @@
 {
-  "updated": "2026-09-11T03:17:17.792310+00:00",
+  "updated": "2026-09-16T03:36:35.813706+00:00",
   "source": "https://orcid.org/0000-0001-5389-4157",
   "citations_source": "https://www.crossref.org (is-referenced-by-count)",
-  "total_citations": 31,
+  "total_citations": 32,
   "publications": [
     {
       "year": "2026",
@@ -90,7 +90,7 @@
       "title": "Sex-specific selective effect of winter weather on morphological traits in a small passerine bird",
       "venue": "Avian Research",
       "url": "https://doi.org/10.1016/j.avrs.2023.100093",
-      "citations": 2
+      "citations": 3
     },
     {
       "year": "2022",
